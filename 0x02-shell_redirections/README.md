@@ -1,1 +1,1 @@
-last lines of a file
+prefer the first
